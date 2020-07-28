@@ -63,6 +63,7 @@ class MainActivity : AppCompatActivity() {
                 setupCustomDialog()
             }
             .setNegativeButton(getString(R.string.no)) { dialog_, which_ ->
+                finish()
 
             }
             .setCancelable(false)
