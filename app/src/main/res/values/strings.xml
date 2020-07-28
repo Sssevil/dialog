@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="save">Save</string>
+    <string name="ok">Ok</string>
+    <string name="dannye">Данные сохранены</string>
+    <string name="dan">Сохранить данные?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="data">%1d/%2d/%3d/</string>
+</resources>
